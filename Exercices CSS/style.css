@@ -1,0 +1,17 @@
+div.Bandeau {
+    background-color: #C12503; 
+    color: #fff;
+    padding: 15px;
+}
+
+div.Contenu {
+    background-color: #0DBC8F; 
+    color: #fff;
+    padding: 340px;
+}
+
+div.Pied {
+    background-color: #0D28BC; 
+    color: #fff;
+    padding: 15px;
+}
